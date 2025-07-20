@@ -15,3 +15,7 @@ The most significant challenge I pose is that you get no boiler plate code. How 
 
 ### Stuff that needs to be submitted this week
 Not only do I need your working code in this directory as a commit but I also need a video recording giving me a walk through of your code. This week's work is 100% required for certfication and is expected from everyone, since this is RL core. Do not attach the video recording on GitHub (space constraints), instead you should create a Gdrive link and fill it in the form you can find on the google classroom page for this assignment. Do not forget to enable view access for all.
+
+
+## Video Explanation
+https://drive.google.com/file/d/1uqaVPJxasJWLX2gtd99jqPbYgTPBZuTP/view?usp=sharing  
